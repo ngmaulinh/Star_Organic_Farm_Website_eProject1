@@ -9,7 +9,7 @@ body {
  h2 {
   color: #000; }
 
-.btn.btn-primary, .btn.btn-secondary{
+.btn{
   font-size: 13px;
   text-transform: uppercase;
   letter-spacing: .2em;
